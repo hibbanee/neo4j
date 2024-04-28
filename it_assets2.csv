@@ -1,4 +1,4 @@
-Device ID,Type of Device,Software and Version Installed,Patched,Management Group Email,Group ID
+DeviceID,TypeofDevice,SoftwareVersion,Patched,ManagementGroupEmail,GroupID
 5b38ee51-ee16-4b83-b2a5-b85ba015e0a3,Server,Apple iOS 14,No,robert04@ramos-vasquez.com,19
 acf98699-f6a9-4913-a0a6-ffabbecd9d05,Mobile Device,Mozilla Firefox 78,No,weaverjorge@williams-daniels.net,15
 0b3836e7-f36b-464c-9133-946e9f02f003,Mobile Device,Adobe Acrobat 2021,Yes,susanstrong@thompson-brown.com,2
