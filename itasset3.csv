@@ -1,0 +1,101 @@
+DeviceID,TypeofDevice,SoftwareandVersionInstalled,Patched,ManagementGroupEmail,GroupID
+a85dcfef-2750-4871-94b1-a0ee1be9c735,Mobile Device,VPN Software v2.0,Yes,hollowaydavid@romero-smith.biz,15
+9395237d-0c9d-4669-b2f9-46f247296456,Laptop,Google Chrome 91,Yes,vwalton@nunez.info,5
+3bd579a5-5b6b-4071-b5b7-5a461ecc8827,Mobile Device,Java Platform Java 8,Yes,stephen16@dickerson-smith.net,13
+d3759285-98c2-43b3-a1af-8024bc8f99bd,Laptop,Google Chrome 91,No,stephanie02@gibson.com,18
+6958e484-d0f3-4a26-89e9-8a9695606fe6,Laptop,Adobe Acrobat 2022,No,nunezwendy@nguyen-rivera.com,6
+7fe61415-30d9-4d23-a051-20a4c500e5a7,Laptop,Microsoft SQL Server 2019,Yes,daisy73@hurst.com,15
+70b4674a-89ed-46bc-bb40-e3f928903db8,Mobile Device,Microsoft Windows 11,No,brooksjeffrey@greene-evans.com,12
+b96af3ed-6001-47c5-8bcf-a283a811e180,Server,Google Chrome 91,No,jessicamartin@morales-phillips.com,10
+dca3be4b-6983-455d-9e29-44f9acfc5af3,Mobile Device,Apple macOS Big Sur,Yes,gabrielmiller@ballard.com,20
+66a7dd1b-c6ae-48c4-9068-7514c2c382c5,Server,Mozilla Firefox 79,No,gouldbrittany@miller.com,10
+f28ddd42-0008-4256-aa24-8b37f93a6ae8,Laptop,VPN Software v1.0,Yes,joseprice@bradford.com,20
+135e2400-255a-4ee6-99ec-bb298aebd353,Laptop,Google Chrome 90,No,morgantina@miller.com,13
+58c113e6-d42b-4d73-be8a-8f31832f6234,Laptop,Mozilla Firefox 79,Yes,james27@stanley.com,8
+564e9d79-ed4c-476c-8fd2-74797f3cfead,Laptop,Java Platform Java 11,Yes,evansmichelle@page.org,20
+51b4101c-a8d9-4d7f-8067-2bc6adb8f5a8,Server,Microsoft Project 2019,Yes,jerry21@smith.net,3
+39b6f13a-d032-4140-8fa5-d7cd343ea829,Mobile Device,Apple iOS 14,Yes,simmonsrachel@bell-shields.com,20
+31aa0c8b-3f87-4a16-a265-5489827e13d7,Server,Microsoft SQL Server 2019,No,faith12@clark-pearson.com,14
+e21f3da0-a1aa-4fe2-ab7b-445d441f098f,Server,Apple macOS Big Sur,Yes,betty23@gallegos.com,19
+3e8b53a4-322a-4039-8741-18b23ae1a249,Mobile Device,Java Platform Java 8,Yes,rose79@white.com,3
+f1b85e71-0f4e-4940-a466-b1bd86a83d91,Laptop,Adobe Acrobat 2021,No,rodneyhopkins@newman-melton.com,8
+8e676957-06ad-44dc-9ccd-2d527d1d1d32,Laptop,Apple iOS 15,No,garciahannah@kim.biz,3
+1e757b1e-192f-49d2-a4a5-0209c7b72840,Server,Adobe Acrobat 2021,No,cchoi@mcclain.net,4
+5d89fffe-06b2-447f-8b1c-3765ad7fde67,Server,Apple iOS 15,No,craig16@patterson.info,1
+27788f97-1e15-4b14-b359-0e3a46351f24,Server,VPN Software v1.0,Yes,ronaldstephens@harrison-deleon.com,17
+cb7ff1b1-c325-461c-b3cc-ef6e3fafa53b,Server,Adobe Acrobat 2021,Yes,henry60@benton.info,19
+cc21423c-e215-4a98-acf1-d694b131eb0f,Laptop,Linux Ubuntu 20.04,Yes,yrojas@thompson.biz,10
+8b0b1f92-904a-40cd-b768-2a06497d5958,Server,Microsoft Project 2019,Yes,lisaskinner@barrett.org,15
+7cf5056b-3e1f-4803-bb7c-539589f74df3,Server,Microsoft Windows 10,Yes,melinda73@young-morgan.biz,4
+0b4682e4-83c7-46be-9734-5b05666d565e,Mobile Device,Cold Fusion 2018,No,scott38@murphy.com,7
+7e7b8010-5574-42c8-98f7-7826c5c81858,Server,Microsoft Office 2019,No,chris69@bush-neal.net,17
+c6227679-3f62-485d-bd0c-997bc4c3f9bc,Laptop,Microsoft Windows 11,No,derekpratt@wright-barton.com,4
+c827c63e-49ed-4723-8971-08b49b5f24e1,Mobile Device,Microsoft SQL Server 2022,Yes,allison75@werner-king.com,3
+36459f27-284d-43a4-829e-d602e09114f6,Laptop,Java Platform Java 11,No,victoria94@rivera.com,1
+9cdee47c-3f2b-406e-94dd-476a28633f77,Server,Microsoft Windows 11,No,gbrooks@dunlap.com,1
+c9e89fd2-3027-4f2a-ac97-93b94e4036ef,Server,VPN Software v1.0,Yes,tonyaferrell@west-farley.info,8
+7c40c1a6-5b47-49af-b587-55821be6d8cc,Server,VPN Software v2.0,No,arthur91@sanchez-odom.info,2
+6362155d-242c-44d2-9db7-3693905cf34c,Mobile Device,Google Chrome 90,No,mbryan@allen-patel.com,10
+9f27ec42-d768-4e6b-9e5d-6c6397ce9a2e,Server,Apple iOS 15,Yes,robertperez@smith.com,7
+06e2f2b0-29a3-4a9e-8aea-2fc49b0340ca,Mobile Device,Microsoft Project 2019,No,bacevedo@ramirez.com,17
+0632fbb5-d13e-4916-9b59-e50f3966aeb7,Mobile Device,Linux Ubuntu 20.04,No,ybond@howell.info,2
+b02fd625-1029-46b7-b4fe-a1b4edf7ed56,Laptop,Adobe Acrobat 2022,No,awilliams@adams-baker.biz,13
+72a1aecd-26a6-4658-998d-46d1fd37d3a2,Server,Mozilla Firefox 78,Yes,rmartinez@brown.biz,5
+93d36f38-101b-4bd9-abdf-017800580c8e,Server,VPN Software v2.0,Yes,bradley07@mcdaniel.biz,7
+baa35a3a-3770-461d-8aa5-b93414cdad8d,Mobile Device,Mozilla Firefox 79,Yes,riverssandy@wood.com,9
+85c30112-935a-4150-83c2-9c9f9f64e8eb,Laptop,Microsoft Office 365,No,cwong@murphy.info,9
+84d84167-c64f-42f3-b111-c32ea7bde22b,Mobile Device,Microsoft SQL Server 2019,No,drivera@simpson.com,10
+7823887d-5dcb-4e1c-82c2-57f0fd5797a7,Server,Apple macOS Monterey,No,andersonjoshua@williams.com,4
+40028375-56ff-43bf-b856-b51ffe1354b5,Server,Apple iOS 15,Yes,sharongreen@phillips.com,18
+21c28d58-9303-41d2-9232-4a447032049a,Mobile Device,Java Platform Java 8,No,justincabrera@davila.com,8
+97bfa593-c247-453a-9fe5-1fa9b70f55eb,Laptop,VPN Software v2.0,Yes,gsmith@brown.com,6
+fcb97a41-3a8a-4c90-8ff9-0c4e086f9449,Server,Apple iOS 15,No,waltoncaitlin@west.com,4
+af3ae941-b920-4c85-862e-125c45ff3072,Laptop,Cold Fusion 2021,No,michael28@briggs.com,2
+0e26be66-a39f-4786-aacd-4f76d68f567a,Laptop,Adobe Acrobat 2022,Yes,jasonbrown@murphy.net,2
+b442d5b4-fd39-498a-88ba-4719ee470826,Server,Java Platform Java 11,Yes,spencepatrick@hayes-carr.com,16
+2b13684f-573d-4c86-8412-d60569bcccbb,Server,VPN Software v1.0,No,sharonadams@anthony-palmer.com,12
+8ca8d665-91a6-4d1d-80be-0f4b3c86e1f0,Mobile Device,Linux RedHat 8,Yes,ichapman@klein.com,2
+7a9a060a-718d-469f-b3cb-1cb48b078e2b,Server,Microsoft Project 2019,No,neallindsey@james.net,4
+04fdd033-fda9-4231-9033-09f32d78f29e,Server,Apple iOS 14,No,sfranklin@martin.org,1
+f18c9ec3-ba40-478e-831c-30cc83bdd000,Server,Google Chrome 91,Yes,julie03@murphy-west.com,6
+12b723ad-eb15-419c-ae5d-b751be0b4671,Server,Java Platform Java 8,Yes,kathrynwest@walters-tucker.net,8
+6582dfcd-d6fb-4a46-8faa-796139e88d72,Server,Adobe Acrobat 2022,No,kthomas@richardson.org,10
+0e0eef05-a580-4a93-b36b-a8c4e004f655,Laptop,Java Platform Java 8,Yes,ywalton@herrera-anderson.info,20
+49eddc7c-f1af-496a-b6d9-8716c05a1763,Mobile Device,Adobe Acrobat 2022,No,nfisher@ward.com,10
+86ee3eb9-6c42-4319-976b-5d9d68a7321c,Mobile Device,Microsoft Windows 10,No,carlos88@dougherty.info,20
+17046092-1f59-4ace-8533-86dd90c9fe4d,Mobile Device,Adobe Acrobat 2021,Yes,robinburton@newman.com,8
+98aab202-8253-4d74-a8ce-22b080d75620,Mobile Device,Apple iOS 14,No,kelly02@robinson.com,9
+959e6595-71cd-49ea-bc98-e310db075254,Laptop,Java Platform Java 11,No,kball@mcdonald.com,1
+083f477c-fb4c-4689-9aec-f07bf92774ed,Server,Microsoft Office 2019,Yes,qnash@patton-hunter.biz,1
+0e6451dc-ec92-4648-92c4-c93c8e8fa433,Mobile Device,Microsoft Office 365,Yes,lisa59@gibson.com,7
+d66f4bfb-70f5-4938-b0b6-9849e9c290e2,Laptop,Cold Fusion 2018,No,johnsonjean@landry-jackson.com,8
+00b6ce69-bc53-404b-aeae-b6bb4efc7070,Mobile Device,Apple iOS 15,Yes,flester@rice.com,13
+4c99a8be-22c2-4d60-8429-cc70c9c99257,Laptop,Apple iOS 14,Yes,petersonjessica@torres.biz,15
+47959728-d23f-476d-b0a5-83de42a8eaf3,Server,Microsoft Windows 11,Yes,brian28@ramirez.biz,10
+0f7f7c4b-8fe8-4166-9b35-d8361f08a60c,Laptop,Microsoft Windows 11,No,burchmarissa@morris.com,7
+51a7fc13-3ebf-4273-8f5e-1e2d57bafd09,Server,Microsoft Office 365,No,nicholas04@jones.com,11
+436939cb-54aa-4362-8eb4-e8c7870302f5,Mobile Device,Microsoft Windows 11,No,billy22@chan-barnett.biz,9
+a03c7639-389c-46a8-b31e-9130f4253354,Server,Microsoft Office 2019,Yes,elizabethray@york.com,17
+3369086d-34ef-4c62-a4e1-9ee51be5e712,Mobile Device,Microsoft Office 365,Yes,stacey11@marshall.org,3
+3d85062c-984b-4a10-a30b-bf27f5bafb10,Laptop,Google Chrome 91,Yes,schmidtjustin@johnson-garcia.com,3
+c7c957b8-5a34-4bbd-9482-3c04a6a7bc4e,Server,Google Chrome 91,Yes,cookpeter@gonzales-branch.com,6
+c8800c80-d0dc-4f50-8d80-08600280c624,Server,Apple iOS 15,No,haleyshawn@newton.com,14
+0c9ece61-b8d5-4970-a432-f8cb3367a98a,Mobile Device,Google Chrome 90,No,michaelcooper@torres.net,7
+000eb253-5e22-4b17-b269-915af00be5c1,Laptop,Microsoft Office 365,Yes,david75@andrews.com,5
+515e3365-2d67-42b6-888e-b93477141b0a,Server,Cold Fusion 2018,Yes,john54@turner.com,15
+8c066769-1716-4248-a72f-d309dc28289b,Server,Microsoft Office 365,Yes,davisbradley@carroll-cooper.biz,1
+85509d0d-ae5f-45dc-bafb-4e80c12f9b85,Laptop,Linux Ubuntu 20.04,Yes,sullivandebbie@juarez.org,12
+e653cabb-1a24-495f-a86d-36150ecfa662,Mobile Device,Apple iOS 14,No,johnharper@weaver-martin.com,16
+16f51a53-cff9-46e3-ad4e-3090de9f9048,Server,Microsoft SQL Server 2022,Yes,goodalexandra@harrington.com,14
+8f598448-e15b-41ef-bbbe-9f3decf288f6,Mobile Device,Google Chrome 91,Yes,brooke35@calderon.biz,7
+ae176e80-d924-4953-a25b-fc8624d55015,Mobile Device,Microsoft Project 2021,No,alecpayne@baker-baird.com,11
+e7d67e18-1139-4b8a-ac8d-6bf54b8f573d,Laptop,Apple iOS 15,Yes,ronaldmcmillan@richards.com,4
+fe489599-d1d6-4371-b7fa-6acd4770c2ec,Laptop,Google Chrome 91,Yes,vincent73@lee.com,17
+e7aa4be0-f909-4f9b-ab11-107d5c9345e8,Server,Java Platform Java 11,Yes,johnspencer@berry.com,5
+d9bd3943-9b40-4f08-9050-667b184e0719,Server,Google Chrome 90,Yes,joshua54@jones-fisher.com,6
+f8d0aacb-6a07-4baa-a4f6-746e161638a5,Server,Java Platform Java 11,No,qmoore@robinson.net,12
+94cca0d1-6e7c-4ed0-8a4a-e71e63005fe8,Mobile Device,Microsoft SQL Server 2019,Yes,hendrixderek@bean.info,16
+446ac429-5e26-4f48-906e-89101ba990a3,Mobile Device,Google Chrome 90,Yes,zmurray@robinson.net,3
+d872096f-0e35-49da-99e5-b0439f8eec9b,Server,Java Platform Java 8,No,yflynn@vasquez.com,12
+39ece275-1bef-4b00-a6b2-af57ac43f393,Mobile Device,Microsoft Windows 11,Yes,qschmidt@robinson.biz,17
+d3039316-75ff-4bce-ace0-b032cdaca8a0,Laptop,Apple macOS Monterey,Yes,johnsonlinda@warren-young.org,1
